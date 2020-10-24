@@ -1,9 +1,9 @@
 # !/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 # @Author: Dwarika 
-# @Date: 2020-10-24
+# @Date: 2018-07-05 19:37:42 
 # @Env: python 3.6 
-# @Github: https://github.com/Dwarkeshsahu/InfluenceCoding/
+# @Github: https://github.com/Dwarkeshsahu/InfluenceCoding 
 
 from turtle import *
 
@@ -288,5 +288,5 @@ if __name__ == '__main__':
     speed(9)    
     Doraemon()
     my_goto(100, -300)
-    write('Influence_coding', font=("Bradley Hand ITC", 30, "bold"))
+    write("Hiiiii... Happy coding\n\n         @Influence_coding", font=("Bradley Hand ITC", 10, "bold"))
     mainloop()
